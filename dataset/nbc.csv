@@ -1,0 +1,11 @@
+﻿weather,health,activity
+sunny,good,go_out
+rainy,bad,go_out
+rainy,bad,stay_home
+sunny,good,go_out
+sunny,good,stay_home
+sunny,good,go_out
+sunny,good,go_out
+rainy,good,stay_home
+sunny,good,stay_home
+rainy,bad,stay_home
